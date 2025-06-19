@@ -1,7 +1,3 @@
-# -------------------------------
-# FILE: salary_model.py
-# DESCRIPTION: Model training and saving with Pickle
-# -------------------------------
 import pandas as pd
 import numpy as np
 import re
